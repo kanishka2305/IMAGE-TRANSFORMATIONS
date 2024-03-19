@@ -152,52 +152,26 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
 ![image](https://github.com/kanishka2305/IMAGE-TRANSFORMATIONS/assets/113497357/4a95f5af-fa9b-4e03-92ab-b43d5013de6a)
 
 
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
 ![image](https://github.com/kanishka2305/IMAGE-TRANSFORMATIONS/assets/113497357/cd02e76a-7279-4e04-a8fc-0785029f32bd)
 
 
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
 ![image](https://github.com/kanishka2305/IMAGE-TRANSFORMATIONS/assets/113497357/9841f537-e871-4e28-9e1e-3d6cab813046)
 
 
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
 ![image](https://github.com/kanishka2305/IMAGE-TRANSFORMATIONS/assets/113497357/8234ac6f-dba2-4563-a06b-4895d8ad9b66)
 
 
-
 ### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
 ![image](https://github.com/kanishka2305/IMAGE-TRANSFORMATIONS/assets/113497357/90e72f5f-c838-4b65-b650-bd5b51c4908f)
 
 
-
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
 ![image](https://github.com/kanishka2305/IMAGE-TRANSFORMATIONS/assets/113497357/d92b9cab-34c9-46e7-9f57-bbf2ba206d9c)
 
 ## Result: 
